@@ -1,0 +1,87 @@
+html {
+    height: 100%;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+
+}
+body {
+    background-color: rgba(255, 255, 255, 0);
+    background-image: url(images/pxfuel\ \(1\).png);
+    background-size: covers;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+
+header {
+    background-color: rgba(0, 0, 255, 0);
+    height: 118px;
+    width: 1024px;
+    text-align: center;
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+    
+nav {
+    background-color: rgba(72, 66, 66, 0.315);
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+   
+}
+main {
+    background-color: rgba(147, 176, 202, 0);
+    height: 400px;
+    text-align: center;
+    padding-bottom: 150px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+footer {
+    background-color: rgba(0, 156, 83, 0.719);
+    text-align: center;
+    padding: 12px 25px;
+    text-decoration: underline;
+   
+}
+h1 {
+    color: azure;
+    font-size:60px;
+    text-align: center;
+    
+}
+p { 
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+
+}
+nav a {
+    color: rgb(249, 241, 241);
+    text-underline-position: auto;
+    text-decoration: none;
+    font-size: 26px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.mybutton {
+    background-color: rgb(48, 207, 154);
+    display: inline-block;
+    color: black;
+    font-size: 40px;
+    padding: 12px 25px;
+    margin-top: 100px;
+   
+}
